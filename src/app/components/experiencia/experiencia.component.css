@@ -1,0 +1,26 @@
+
+.experiencia{
+    width: 100%;
+    height: auto;
+    padding:0px;
+    margin-bottom: 5px;
+}
+.titulo1{
+    padding-bottom: 10px;
+    font-size: 35px;
+    color: #0caa09;
+    text-align: center;
+    justify-content: center;
+   /* background-color: springgreen;*/
+    margin-left: 0rem;
+    width: 100%;
+}
+.parrafo1{
+    color: #0caa09; 
+}
+.log{
+    text-align: center;
+    justify-content: center;
+
+}
+
